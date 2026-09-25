@@ -1,4 +1,4 @@
-# 🏆 Amazon ML Challenge 2026 — Business Entity Resolution
+# Amazon ML Challenge 2026 — Business Entity Resolution
 
 **Team deadline: finish by Saturday night. Sunday = exam prep, unavailable.**
 
