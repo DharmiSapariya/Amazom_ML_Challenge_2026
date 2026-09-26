@@ -1,4 +1,4 @@
-# 🏆 Amazon ML Challenge 2026 — Business Entity Resolution Pipeline
+#                                         Amazon ML Challenge 2026 — Business Entity Resolution Pipeline
 
 <p align="center">
 <b>High-Recall Candidate Generation → Hard-Negative Matching → Precision-Aware Entity Resolution</b>
